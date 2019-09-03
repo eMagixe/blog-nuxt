@@ -1,0 +1,34 @@
+p {
+    font-size: 1.25em;
+    font-weight: 400;
+    color: #212121;
+    line-height: 1.8em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 500;
+    color: #212121;
+    line-height: 2em;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+.post {
+    margin-bottom: 1rem;
+}
+
+.post > div {
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.post img {
+    max-width: 100%;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
